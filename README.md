@@ -6,7 +6,7 @@ Cada questão foi realizada em sua respectiva controller, seguindo a seguinte or
 - ProductController - Funções refrente a busca das demais moedas, realizando uma conuslta em outra API para atualização dos dados em tempo real.
 - LocationController - Funções para calculo de localização das lojas próximas ao cliente.
 
-#Instalação
+##Instalação
 
 - Instalação de uma vesão do PHP acima da 7.4.
 - Instalação do Composer.
@@ -16,7 +16,7 @@ Cada questão foi realizada em sua respectiva controller, seguindo a seguinte or
 - Rodar o comando: php artisan serve
 - Utiizar sua base_url para os teste.
 
-#EndPoints
+##EndPoints
 
 Para realização dos teste, basta concatenar sua base_url com uma das rotas abaixo:
 
